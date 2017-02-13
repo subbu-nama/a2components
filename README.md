@@ -19,4 +19,4 @@ declarations: [
   ] </br>
 
 # Add HelloWorld selector to the app.component.html
-<wtc-hello-world> </wtc-hello-world>
+"<wtc-hello-world> </wtc-hello-world>"
