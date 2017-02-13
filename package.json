@@ -1,6 +1,6 @@
 {
   "name": "a2components",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "description": "Help you to prepare your own Angular2 component",
   "angular-cli": {},
