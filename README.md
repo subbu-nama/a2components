@@ -13,7 +13,7 @@ npm publish </br>
 npm install a2components </br>
 
 # Import component and added to declarations in app.module.ts
-import { HelloWorld } from 'a2componentspublish/components'; </br>
+import { HelloWorld } from 'a2components/components'; </br>
 declarations: [
     HelloWorld
   ] </br>
