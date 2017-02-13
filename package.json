@@ -1,6 +1,6 @@
 {
   "name": "a2components",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "description": "Help you to prepare your own Angular2 component",
   "angular-cli": {},
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/subbu-nama/a2components.git"
   },
-  "homepage": "https://github.com/subbu-nama/a2components.git#readme",
+  "homepage": "https://github.com/subbu-nama/a2components#readme",
   "author": "subbu.careers@gmail.com",
   "dependencies": {
     "@angular/common": "2.1.0",
