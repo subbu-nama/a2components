@@ -1,1 +1,1 @@
-exports.HelloWorld = require('./lib/helloworld.component').HelloWorld;
+exports.HelloAngular2 = require('./lib/helloangular2.component').HelloAngular2;

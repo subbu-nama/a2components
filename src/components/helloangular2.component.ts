@@ -1,5 +1,5 @@
 /**
- *This is simple Angular2 component
+ * User interaction Angular2 component
  */
 import {Component} from '@angular/core';
 
