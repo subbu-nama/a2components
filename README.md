@@ -1,6 +1,13 @@
+#Pre-Requisites
+Node.js – Make sure NodeJS is installed in your system </br>
+Refer "https://nodejs.org/en/download/" to download and install Node.js. </br>
+
 # Installation
 Clone the repository and do </br>
 npm install </br>
+
+# Generate doc
+gulp typedoc </br>
 
 # Building library
 npm run build </br>
