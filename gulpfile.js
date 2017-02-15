@@ -2,7 +2,7 @@ var typedoc = require("gulp-typedoc");
 var gulp = require("gulp");
 gulp.task("typedoc", function() {
     return gulp
-        .src(["src/components/*.*.ts"])
+        .src(["src/app/helloangular2/*.*.ts"])
         .pipe(typedoc({
             mode: "modules",
             module: "commonjs",

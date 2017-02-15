@@ -4,7 +4,7 @@
 import {Component} from '@angular/core';
 
 @Component({
-    selector: 'wtc-hello-world',
+    selector: 'wtc-hello-angular2',
     styles: [`
        .theme-color {
             color: green;

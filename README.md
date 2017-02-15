@@ -20,10 +20,10 @@ npm publish </br>
 npm install a2components </br>
 
 # Import component and added to declarations in app.module.ts
-import { HelloWorld } from 'a2components/components'; </br>
+import { HelloAngular2 } from 'a2components/components'; </br>
 declarations: [
-    HelloWorld
+    HelloAngular2 
   ] </br>
 
-# Add HelloWorld selector to the app.component.html
-wtc-hello-world
+# Add HelloAngular2 selector to the app.component.html
+wtc-hello-angular2
