@@ -11,7 +11,7 @@ import {Component} from '@angular/core';
         }
     `],
     template: `<div class="theme-color">
-                  <h1 (click)="onClick()">{{message}}</h1>
+                  <h1 (click)="clickMe()">{{message}}</h1>
                </div>`
 })
 export class HelloAngular2 {
@@ -24,7 +24,7 @@ export class HelloAngular2 {
     /**
      * Changes the text message as soon as user click on Click me
      */
-    onClick() {
+    clickMe() {
         this.message = "Hello, WTC's Angular 2 Component";
     }
 
